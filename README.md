@@ -1,7 +1,7 @@
 # Welcome to the KanjiReader app 👋
 
 **KanjiReader** is a mobile app that helps you understand Japanese text more easily.
-With **OCR (optical character recognition)** it can read Japanese characters from images, automatically **translate them into English**, and add **Furigana** (reading aids above Kanji). Ideal for language learners, travelers, or anyone dealing with Japanese text!
+With **OCR** (optical character recognition) it can read Japanese characters from images, automatically **translate them into English**, and add **Furigana** (reading aids above Kanji). Ideal for language learners, travelers, or anyone dealing with Japanese text!
 
 The app is built with [React Native](https://reactnative.dev/) and [Expo](https://expo.dev/).
 
